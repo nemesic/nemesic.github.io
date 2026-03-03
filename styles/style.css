@@ -72,6 +72,8 @@ header {
     background-size: cover;
     padding: 120px 0;
     min-height: 50vh;
+    color: #fff;
+    position: relative;
 }
 
 .about-block {
